@@ -21,12 +21,3 @@ class Deck():
         for value in cardValues:
             for suit in suits:
                 self.cards.append(Card(suit.name,value))
-
-    
-
-
-        
-
-
-
-
